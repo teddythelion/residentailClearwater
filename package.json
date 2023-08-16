@@ -23,8 +23,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "postbuild": "next-sitemap"
+    "start": "next start"    
   },
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
