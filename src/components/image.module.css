@@ -1,0 +1,20 @@
+@media (min-width: 1024px) {
+  .img {
+    transition: transform 0.4s;
+    width: 100%;
+    height:100%;
+  }
+
+  .img:hover {
+    transform: scale(1.1);
+    transform-origin: 50% 50%;
+  }
+  .imgContainer {    
+    width: 100%;
+    height:100%;
+  }
+}
+.logos{
+  margin:31px;
+  padding:31px;
+}
