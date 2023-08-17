@@ -40,7 +40,7 @@ export default class MyDocument extends Document {
             }}
           />
         </Head> 
-        <body className="text-[#14445c] dark:text-white dark:bg-dark bg-light">
+        <body className=" w-full text-[#14445c] dark:text-white dark:bg-dark bg-light">
           <Main />
           <NextScript />
         </body>
