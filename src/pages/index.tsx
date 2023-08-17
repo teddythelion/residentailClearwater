@@ -38,7 +38,7 @@ export default function HomePage() {
         data2={data[4]} 
          />
         <Link href={data[4]['slug']}>        
-          <Button className= "relative 2xl:left-96 2xl:ml-20 xl:left-96 lg:left-64 md:left-40 md:ml-20 sm:left-24 sm:ml-24 xsm:left-24 xsm:ml-20 h-65 w-52 mb-7 ml-10">
+          <Button className= "relative 2xl:left-96 2xl:ml-20 xl:left-96 lg:left-64 md:left-40 md:ml-20 sm:left-24 sm:ml-24 xsm:left-0 xsm:ml-16 h-65 w-52 mb-7 ml-10">
             DONATE
           </Button>        
       </Link>
