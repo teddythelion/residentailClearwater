@@ -11,10 +11,10 @@ const HomeFirstSection = () => (
         <source src="/clearwater.mp4" type="video/mp4"/>
       </video>
     </div>
-    <div className="relative h-auto text-center">
+   <div className="relative h-auto text-center">
       <div className="mx-auto mb-16 place-self-center lg:col-span-7">
-        <div className="text-green-800 ml-16 max-w-5xl mb-4 text-7xl font-extrabold tracking-tight leading-none md:text-5xl xl:text-6xl dark:text-grey-200 underline">Supporting the <span className="text-green-400 underline">Community</span></div>
-        <p className="max-w-2xl lg:ml-52 2xl:ml-60 xl:ml-52 md:ml-40 lg:ml-48 mb-6 font-extrabold text-3xl text-grey-200 lg:mb-8 md:text-lg lg:text-5xl dark:text-white">Housing, Job Coaching, Life Management,  and Re-Entry Support</p>
+        <div className="text-green-800 ml-16 xsm:mr-10 xsm:ml-1 sm:mr-5 max-w-5xl mb-4 text-7xl font-extrabold tracking-tight leading-none md:text-5xl xl:text-6xl dark:text-grey-200 underline">Supporting the <span className="text-green-400 underline">Community</span></div>
+        <p className="max-w-2xl xsm:mr-2 2xl:ml-60 xl:ml-52 md:ml-40 lg:ml-48 mb-6 font-extrabold text-3xl text-grey-200 lg:mb-8 md:text-lg lg:text-5xl dark:text-white">Housing, Job Coaching, Life Management,  and Re-Entry Support</p>
         <Link href={'/about'}>
           <button  className="text-gray-300 inline-flex items-center justify-center px-5 py-3 mr-3 text-base font-medium text-center  border border-gray-300 rounded-lg bg-primary-700 hover:bg-gray-700 hover:bg-gray-300 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900">
           Learn More
