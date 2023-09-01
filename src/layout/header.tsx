@@ -37,7 +37,7 @@ export default function Header() {
           <CustomImage
             src={'/logo.png'}
             alt={'clearwater logo'}
-            width={300}
+            width={280}
             height={89}
             className ={'2xl:w-3/7 2xl:h-full lg:w-56 pb-2.5   '}
           />
