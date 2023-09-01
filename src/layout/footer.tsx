@@ -115,7 +115,7 @@ export default function Footer() {
             </ul>
             <ul className="flex flex-row content-center align-middle xl:flex flex-row flex-wrap lg:flex flex-row flex-wrap md:flex-wrap  sm:flex flex-wrap xsm:flex xsm:flex-col xsm:w-full xsm:right-0 ml-36  mt-5 ">
              
-            <li className="relative left-0 ml-36 sm:-ml-5 xsm:ml-0">
+            <li className="relative left-0 ml-36 sm:-ml-5 xsm:ml-4">
                 <ExternalLink href="https://www.morongocasinoresort.com/">                  
                     <Image
                       width={300}
