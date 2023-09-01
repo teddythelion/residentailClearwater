@@ -10,12 +10,9 @@ export default function Footer() {
         <div className="sm:left-3 xsm:left-6 relative left-28 lg:left-10 lg:left-10 flex flex-wrap gap-10  md:w-5/6">
           <div></div>
           <div className="content-center">
-            <h3 className="text-4xl  md:w-5/6 md:flex-wrap xsm:w-full md:left-24 xsm:left-4 xsm:ml-0 relative md:left-0 lg:left-10 xl:left-36 2xl:left-36 font-bold">Thank You to Our Amazing Partners</h3>
-
-
-            
-             
-            
+            <h3 className="text-4xl  md:w-5/6 md:flex-wrap xsm:w-full md:left-24 xsm:left-4 xsm:ml-0 relative md:left-0 lg:left-10 xl:left-36 2xl:left-36 font-bold">
+              Thank You to Our Amazing Partners
+            </h3>          
             <ul className="flex flex-row xl:flex flex-row flex-wrap lg:flex flex-row flex-wrap md:flex-wrap  sm:flex flex-wrap xsm:flex xsm:flex-col xsm:w-full  mt-5 ">
               <li className="pb-3">
                 <ExternalLink href="https://www.cmfa-ca.com/">
