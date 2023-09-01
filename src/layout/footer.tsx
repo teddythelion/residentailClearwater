@@ -113,10 +113,7 @@ export default function Footer() {
               </li>
             
             </ul>
-            <ul className="flex flex-row content-center align-middle xl:flex flex-row flex-wrap lg:flex flex-row flex-wrap md:flex-wrap  sm:flex flex-wrap xsm:flex xsm:flex-col xsm:w-full xsm:right-0 ml-36  mt-5 ">
-             
-            
-            </ul>
+           
           </div>
         </div>
         <hr></hr>
