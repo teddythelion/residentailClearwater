@@ -140,7 +140,7 @@ export default function Footer() {
                 <li className="pb-3 font-thin bg-zinc-300"> office@clearwaterresidential.org</li>
             </ul>
           </div>
-          <div className = 'flex flex-col 2xl:w-1/3 lg:w-1/3 xl:w-1/3 md:w-300 gap-8 mt-12 xsm:w-300'> 
+          <div className = 'flex flex-col 2xl:w-1/3 lg:w-1/3 xl:w-1/3 md:w-300 gap-8 mt-12 xsm:w-full'> 
             <h3 className="text-2xl font-bold bg-stone-200">Social Media</h3>
               <ul className="mt-5">
                 <li className="pb-3 bg-slate-200"><a href = "https://www.facebook.com/pages/Clearwater-Residential-Inc/891203944253585?fref=ts">Facebook</a></li>
@@ -149,7 +149,7 @@ export default function Footer() {
                 <li className="pb-3"> </li>
               </ul>
           </div>
-          <div className = 'flex flex-col 2xl:w-1/3 lg:w-1/3 xl:w-1/3 md:w-300 gap-8 mt-12 xsm:w-300'> 
+          <div className = 'flex flex-col 2xl:w-1/3 lg:w-1/3 xl:w-1/3 md:w-300 gap-8 mt-12 xsm:w-full'> 
               <h3 className="text-2xl font-bold bg-stone-200">Phone Numbers</h3>
               <ul className="mt-5">
               <li className="pb-3 bg-slate-200"> Main Phone:</li>
